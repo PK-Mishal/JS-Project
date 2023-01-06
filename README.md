@@ -1,8 +1,8 @@
-# JS-Project
-<h1>Number-System-Converter</h1>
+# JS-Project       Number-System-Converter
+
 Convert any number system to other like Decimal, Binary, Octal, Hexadecimal.
 
-Description
+# Description
 Number System Converter can do the complex conversion for you quickly. Made using Html, CSS and JavaScript.
 
 This program can perform the following conversion:
